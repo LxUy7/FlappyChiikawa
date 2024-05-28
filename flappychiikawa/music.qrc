@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>res_mus.wav</file>
+    </qresource>
+</RCC>

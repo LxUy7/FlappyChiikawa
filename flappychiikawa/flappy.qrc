@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/gameover.png</file>
+        <file>Images/ground.png</file>
+        <file>Images/guid1.png</file>
+        <file>Images/guid2.png</file>
+        <file>Images/guid3.png</file>
+        <file>Images/medal0.png</file>
+        <file>Images/medal2.png</file>
+        <file>Images/pipe1.png</file>
+        <file>Images/pipe2.png</file>
+        <file>Images/rank.png</file>
+        <file>Images/replay.png</file>
+        <file>Images/scoreboard.png</file>
+        <file>Images/scoreNumber/0.png</file>
+        <file>Images/scoreNumber/1.png</file>
+        <file>Images/scoreNumber/2.png</file>
+        <file>Images/scoreNumber/3.png</file>
+        <file>Images/scoreNumber/4.png</file>
+        <file>Images/scoreNumber/5.png</file>
+        <file>Images/scoreNumber/6.png</file>
+        <file>Images/scoreNumber/7.png</file>
+        <file>Images/scoreNumber/8.png</file>
+        <file>Images/scoreNumber/9.png</file>
+        <file>Images/ready.png</file>
+        <file>Images/chiikawa.jpeg</file>
+        <file>Images/chiikawa1.png</file>
+        <file>Images/chiikawa2.png</file>
+        <file>Images/chiikawa3.png</file>
+        <file>Images/background.jpg</file>
+        <file>Images/usagi1.png</file>
+        <file>Images/usagi3.png</file>
+        <file>Images/usagi2.png</file>
+        <file>Images/hachiware1.png</file>
+        <file>Images/hachiware2.png</file>
+        <file>Images/hachiware3.png</file>
+        <file>Images/medal1.png</file>
+    </qresource>
+</RCC>
